@@ -4,5 +4,6 @@ public class Test1 {
         System.out.println("Java 11");
         System.out.println("Java 17");
         System.out.println("Java 20");
+        System.out.println("Java Latest Version 2023");
     }
 }
