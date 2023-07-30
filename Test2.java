@@ -4,6 +4,7 @@ public class Test2 {
         System.out.println("Python3");
         System.out.println("Python3.10");
         System.out.println("Python3.12");
+        System.out.println("Python latest version 2023");
 
     }
 }
